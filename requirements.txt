@@ -1,0 +1,7 @@
+PySide6-Essentials>=6.8
+numpy>=2.2
+soundcard>=0.4.5
+sounddevice>=0.5
+pyinstaller>=6
+pedalboard==0.9.26
+imageio-ffmpeg==0.7.0

@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+build/
+dist/
+release/
+*.spec
+!desktop.spec
+release-v03/
+release-v04/
+release-v05/
+release-v06/
+release-v07/
+release-v08/
+deliverables/
+publication/github-ready/
+preview*.png
