@@ -1,10 +1,14 @@
 # Riff Tonic
 
+**[⬇ Download for Windows](https://github.com/Kanecc3421/riff-tonic/releases/download/Riff-Tonic-v0.8.1/RiffTonic-Windows-v0.8.1-local.zip)**　 **[⬇ Download Android APK](https://github.com/Kanecc3421/riff-tonic/releases/download/Riff-Tonic-v0.8.1/RiffTonic-Android-v0.1.0.apk)**
+
+Windows: extract the **entire ZIP**, then run `RiffTonic.exe` alongside its `_internal` folder. Android: install the APK on an Android-compatible phone; tested by the developer on Huawei HarmonyOS 4.2. The Android version currently omits the piano. **Code → Download ZIP contains source code, not a ready-to-run app.**
+
 **One phrase. A little slower. Back to the guitar.**
 
 A Windows desktop practice companion for learning riffs by ear: capture what your computer plays, loop a phrase, slow it down without changing pitch, and check a note on the piano.
 
-[简体中文](README.zh-CN.md) · Version 0.8 · Windows 10 / 11
+[简体中文](README.zh-CN.md) · Version 0.8.1 · Windows 10 / 11
 
 ![Riff Tonic — guitar phrase practice](publication/images/github-hero.png)
 
@@ -33,7 +37,7 @@ Capture is limited to **10 minutes** per take; imports to **15 minutes** per fil
 
 ## Download and run
 
-Once published, open **this repository’s Releases** and download the Windows package for v0.8. Extract the entire archive and run `RiffTonic/RiffTonic.exe`; keep its accompanying files together. Python is not required for the packaged build.
+Once published, open **this repository’s Releases** and download the Windows package for v0.8.1. Extract the entire archive and run `RiffTonic/RiffTonic.exe`; keep its accompanying files together. Python is not required for the packaged build.
 
 This is an early desktop release. If capture is silent, confirm the Windows default output device, rescan devices in the app, and select the output that is actually playing. Headphone and Bluetooth device changes may require another rescan. Capture records system playback; other application sounds can be included.
 

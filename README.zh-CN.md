@@ -1,10 +1,14 @@
 # Riff Tonic
 
+**[⬇ 下载 Windows 版](https://github.com/Kanecc3421/riff-tonic/releases/download/Riff-Tonic-v0.8.1/RiffTonic-Windows-v0.8.1-local.zip)**　 **[⬇ 下载 Android APK](https://github.com/Kanecc3421/riff-tonic/releases/download/Riff-Tonic-v0.8.1/RiffTonic-Android-v0.1.0.apk)**
+
+Windows：**完整解压 ZIP**，保留 `_internal` 文件夹，再运行 `RiffTonic.exe`。Android：将 APK 传到兼容安卓应用的手机上安装；开发者已在华为 HarmonyOS 4.2 手机上试用。Android 版暂不包含钢琴。**Code → Download ZIP 是源码，直接使用请点上面的下载入口。**
+
 **一句乐句，慢一点，再拿起吉他。**
 
 一个 Windows 桌面扒带练习工具：录下电脑正在播放的声音，圈出难听清的那一句，降速不降调，再用小钢琴对音。
 
-[English](README.md) · 版本 0.8 · Windows 10 / 11
+[English](README.md) · 版本 0.8.1 · Windows 10 / 11
 
 ![Riff Tonic](publication/images/github-hero.png)
 
@@ -33,7 +37,7 @@
 
 ## 下载与启动
 
-发布后，在本仓库的 **Releases** 页面下载 v0.8 Windows 压缩包。完整解压后运行 `RiffTonic/RiffTonic.exe`，请保留旁边的依赖文件。打包版不需要另装 Python。
+发布后，在本仓库的 **Releases** 页面下载 v0.8.1 Windows 压缩包。完整解压后运行 `RiffTonic/RiffTonic.exe`，请保留旁边的依赖文件。打包版不需要另装 Python。
 
 这是早期桌面版本。录不到声音时，检查 Windows 默认输出设备，点击应用中的重新扫描，并选择实际播放声音的设备。更换耳机或蓝牙设备后可能需要重新扫描。录制会包含输出设备上其他应用发出的声音。
 
